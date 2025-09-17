@@ -3,3 +3,5 @@ in frontend folder
 
 In backend folder
 "npm start"
+
+Access the application in browser using the link shown in frontend console
