@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=1yNaHNpxm74
+
 in frontend folder
 "npm run dev"
 
